@@ -1,0 +1,3 @@
+1. Upload the VoguePay Class a location of your choice in your files
+2. Open the downloaded folder and change the details in the sample files to your live details.
+3. Open the downloaded folder and open the key.crt file. Copy the public key and paste in the file. The public key can be found at (https://voguepay.com/account_settings) the API settings >>> Public Key
